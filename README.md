@@ -7,7 +7,7 @@ Quy tắc làm bài structor:
 Đầu tiên trong đó sẽ có 1 tệp solution
 
 Tiếp theo là clone trong App Github Desktop trước
-thì trong thư mục Documents sẽ có 1 cái file tên UIT_Structor
+thì trong thư mục Documents -> Github -> UIT_Structor sẽ có 1 cái file tên UIT_Structor
 các ông vào đó đó sẽ có 1 file UIT_Structor.sln thì bấm chuột phải vào nó sẽ nhảy vô trong Visual Studio
 các ông tạo 1 Project mới 
 
