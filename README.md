@@ -4,17 +4,22 @@ Quy tắc làm bài structor:
 
 Đầu tiên thì tui đã có cách dùng github chuẩn hơn 1 xíu
 
-Đầu tiên trong đó sẽ có 1 tệp solution
-
-Tiếp theo là clone trong App Github Desktop trước
+Đầu tiên là clone trong App Github Desktop trước (copy Link tui gửi vào và File -> Clone Repository )
 thì trong thư mục Documents -> Github -> UIT_Structor sẽ có 1 cái file tên UIT_Structor
-các ông vào đó đó sẽ có 1 file UIT_Structor.sln thì bấm chuột phải vào nó sẽ nhảy vô trong Visual Studio
-các ông tạo 1 Project mới 
+
+Tiếp theo các ông hãy vào Visual Studio -> Create a new project 
+
+VD như bài 01 Diểm thì:
+
+Project Name: 01_DIEM
+
+Location: C:\....\Documents\Github\UIT_Structor\UIT_Structor
+
+Solution: 01_DIEM
 
 Lưu ý: Tên File Pdf bài tập như nào đặt tên Project như vậy.
 
 VD như Tạo bài 1 là Tam giác thì ghi: Tên Project 1_Tam Giac (Ghi không dấu để tránh lỗi) 
-trong file bài tam giác thì có nhiều bài nhỏ thì tương ứng 1 bài nhỏ các ông tạo 1 file .cpp mới (tên bài thì cứ đặt theo như cái đề tóm gọn là dược)
 
 Ví dụ như đề bảo tính diện tích tam giác thì ghi DienTichTamGiac.cpp là được ( nếu có hơn 1 bài tính diện tích thì chỉ cẩn là DienTichTamGiac_1.cpp vv là được)
 
