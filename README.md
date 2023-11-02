@@ -13,7 +13,7 @@ VD như bài 01 Diểm thì:
 
 Project Name: NhapXuat ( tuỳ tên bài đầu tiên trong file )
 
-Location: C:\....\Documents\Github\UIT_Structor\UIT_Structor
+Location: C:\....\Documents\Github\UIT_Structor
 
 Solution: 01_DIEM ( đặt theo tên file PDF thầy gửi )
 
