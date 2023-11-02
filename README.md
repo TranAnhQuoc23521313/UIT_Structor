@@ -11,11 +11,11 @@ Tiếp theo các ông hãy vào Visual Studio -> Create a new project
 
 VD như bài 01 Diểm thì:
 
-Project Name: 01_DIEM
+Project Name: NhapXuat ( tuỳ tên bài đầu tiên trong file )
 
 Location: C:\....\Documents\Github\UIT_Structor\UIT_Structor
 
-Solution: 01_DIEM
+Solution: 01_DIEM ( đặt theo tên file PDF thầy gửi )
 
 Lưu ý: Tên File Pdf bài tập như nào đặt tên Project như vậy.
 
